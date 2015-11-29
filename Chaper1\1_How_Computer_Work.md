@@ -82,3 +82,16 @@
  那么，第一讲就到此为止啦～～（CLAP CLAP）
 
  若是有本文任何错误和讲的不清楚的地方欢迎大家批评指正，也欢迎大家留下宝贵的意见或者疑问。
+ 
+ 
+
+---
+
+---
+
+
+![CC BY-NC-SA](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+
+ 此C++教程由[TamceJoe](http://www.tamce.cn/)创作，采用[知识共享 署名-非商业性使用-相同方式共享 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/) 国际许可协议进行许可。
+
+ This tutorial is written by [TamceJoe](http://www.tamce.cn), shared under the licence of [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/).
