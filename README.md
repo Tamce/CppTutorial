@@ -8,7 +8,15 @@
 #TamceJoe的C++教程
  本教程由本人所编写:P
  
- 如果你有任何想法或者发现教程内容有错误，请练习我~
+ 如果你有任何想法或者发现教程内容有错误，请联系我~
+ 
+ 本人网站主页:[Tamce](http://www.tamce.cn/)
+ 
+ [![Vinlic](http://www.vinlic.com/public/images/black_logo.png)](http://www.vinlic.com/)
+ 
+ Github: [TamceJoe](https://www.github.com/tamcejoe)
+ 
+ Git@OSC: [Tamce](https://git.oschina.net/tamce)
  
  多谢支持！
 
