@@ -9,8 +9,7 @@
  本教程由本人所编写:P
  
  如果你有任何想法或者发现教程内容有错误，请联系我~
- 
- 本人网站主页:[Tamce](http://www.tamce.cn/)
+ <tamce@outlook.com> / [Tamce](http://www.tamce.cn/)
  
  [![Vinlic](http://www.vinlic.com/public/images/black_logo.png)](http://www.vinlic.com/)
  
@@ -24,7 +23,7 @@
 ---
 
 
-[![CC BY-NC-SA](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![CC BY-NC-SA](http://cdn.sinacloud.net/tamce-cdn/by-nc-sa.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
  此C++教程由[TamceJoe](http://www.tamce.cn/)创作，采用[知识共享 署名-非商业性使用-相同方式共享 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/) 国际许可协议进行许可。
 
