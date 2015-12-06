@@ -11,7 +11,7 @@
  如果你有任何想法或者发现教程内容有错误，请联系我~
  <tamce@outlook.com> / [Tamce](http://www.tamce.cn/)
  
- [![Vinlic](http://www.vinlic.com/public/images/black_logo.png)](http://www.vinlic.com/)
+ [![Vinlic](http://cdn.sinacloud.net/tamce-cdn/vinlic_logo.png)](http://www.vinlic.com/)
  
  Github: [TamceJoe](https://www.github.com/tamcejoe)
  
