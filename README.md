@@ -1,14 +1,14 @@
 # TamceJoe's Cpp Tutorial
  Just a C++ tutorial written by myself :P
  
- If you have some fantastic idea or there is something incorrect in my text please contact me.
+ If you have any fantastic idea or there is something incorrect in my text please contact me.
  
  Thanks for your support!
 
 #TamceJoe的C++教程
- 本教程由本人所编写:P
+ 本教程由本人所编写 :P
  
- 如果你有任何想法或者发现教程内容有错误，请联系我~
+ 如果你有任何具有建设性想法或者发现教程内容有错误，请联系我~
  <tamce@outlook.com> / [Tamce](http://www.tamce.cn/)
  
  [![Vinlic](http://cdn.sinacloud.net/tamce-cdn/vinlic_logo.png)](http://www.vinlic.com/)
