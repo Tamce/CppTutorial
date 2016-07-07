@@ -1,11 +1,11 @@
-# TamceJoe's Cpp Tutorial
+# Tamce's Cpp Tutorial
  Just a C++ tutorial written by myself :P
  
  If you have any fantastic idea or there is something incorrect in my text please contact me.
  
  Thanks for your support!
 
-#TamceJoe的C++教程
+#Tamce的C++教程
  本教程由本人所编写 :P
  
  如果你有任何具有建设性想法或者发现教程内容有错误，请联系我~
@@ -13,7 +13,7 @@
  
  [![Vinlic](http://cdn.sinacloud.net/tamce-cdn/vinlic_logo.png)](http://www.vinlic.com/)
  
- Github: [TamceJoe](https://www.github.com/tamcejoe)
+ Github: [Tamce](https://www.github.com/tamce)
  
  Git@OSC: [Tamce](https://git.oschina.net/tamce)
  
