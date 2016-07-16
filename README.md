@@ -25,6 +25,6 @@
 
 [![CC BY-NC-SA](http://cdn.sinacloud.net/tamce-cdn/by-nc-sa.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
- 此C++教程由[TamceJoe](http://www.tamce.cn/)创作，采用[知识共享 署名-非商业性使用-相同方式共享 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/) 国际许可协议进行许可。
+ 此C++教程由[Tamce](http://www.tamce.cn/)创作，采用[知识共享 署名-非商业性使用-相同方式共享 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/) 国际许可协议进行许可。
 
  This tutorial is written by [TamceJoe](http://www.tamce.cn), shared under the licence of [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/).
