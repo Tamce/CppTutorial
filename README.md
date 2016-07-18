@@ -4,13 +4,13 @@
  如果你有任何具有建设性想法或者发现教程内容有错误，请联系我~
  <tamce@outlook.com> / [Tamce](http://www.tamce.cn/)
  
- 你也可以在[github](//github.com/tamce/CppTutorial)上帮助我直接修改这个教程。
+ 你也可以在[github](http://github.com/tamce/CppTutorial)上帮助我直接修改这个教程。
 
  [![Vinlic](http://cdn.sinacloud.net/tamce-cdn/vinlic_logo.png)](//www.vinlic.com/)
  
- Github: [Tamce](//github.com/tamce)
+ Github: [Tamce](http://github.com/tamce)
  
- Git@OSC: [Tamce](//git.oschina.net/tamce)
+ Git@OSC: [Tamce](http://git.oschina.net/tamce)
  
  多谢支持！
 
